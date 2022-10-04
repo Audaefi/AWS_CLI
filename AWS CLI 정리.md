@@ -8,7 +8,6 @@
 aws s3 cp /local/object s3://bucket/to/object/path
 ```
 
-![1.png](AWS CLI 정리/1.png)
 
 1. S3에서 EC2로 다운로드하기
 
@@ -16,7 +15,6 @@ aws s3 cp /local/object s3://bucket/to/object/path
 aws s3 cp s3://bucket/from/object/path /local/to/path
 ```
 
-![2.png](AWS CLI 정리/2.png)
 
 ### Bucket 생성/삭제
 
